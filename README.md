@@ -1,1 +1,1 @@
-# Dice_game
+# Dice_game using javascript
